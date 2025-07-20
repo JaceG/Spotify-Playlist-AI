@@ -1,4 +1,5 @@
 # Spotify Playlist AI
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## 🎵 The Vision
 
@@ -130,3 +131,11 @@ Spotify Playlist AI represents both the exciting possibilities and the practical
 The journey taught us valuable lessons about API limitations, the importance of fallback systems, and how to adapt when core features become unavailable. Sometimes the constraints we encounter lead to creative solutions we might not have otherwise discovered.
 
 Try it yourself, but remember - the perfect playlist might still require a human touch! 
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Preview
+
+![Main Page](/assets/screenshot.png)
