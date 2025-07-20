@@ -139,3 +139,5 @@ Contributions, issues, and feature requests are welcome!
 ## Preview
 
 ![Main Page](/assets/screenshot.png)
+
+https://spotify-playlist-ai.replit.app/
